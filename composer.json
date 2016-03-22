@@ -15,8 +15,8 @@
         "mailchimp/mailchimp": "*"
     },
     "autoload": {
-		    "psr-4": {
-			      "sheillendra\\mailchimp\\": ""
-		     }
-  	},
+        "psr-4": {
+            "sheillendra\\mailchimp\\": ""
+        }
+    }
 }

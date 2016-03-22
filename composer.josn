@@ -1,0 +1,22 @@
+{
+    "name": "sheillendra/yii2-mailchimp",
+    "description": "MailChimp Extension for Yii2 framework",
+    "type": "yii2-extension",
+    "keywords": ["sheillendra", "yii2", "mailchimp"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sheillendra",
+            "homepage": "http://sheillendra.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "mailchimp/mailchimp": "*"
+    },
+    "autoload": {
+		    "psr-4": {
+			      "sheillendra\\mailchimp\\": ""
+		     }
+  	},
+}
